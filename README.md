@@ -4,8 +4,8 @@
 
 ### Artificial Intelligence Student | NLP & Machine Learning Researcher | Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cibelle-pires-botelho-80117b37b)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cibelebotelho123@gmail.com)
 
 
 </div>
@@ -63,4 +63,3 @@
 ### Let's connect and build meaningful AI projects 🚀
 
 </div>
-
