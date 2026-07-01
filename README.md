@@ -4,7 +4,7 @@
 
 ### Artificial Intelligence Student | NLP & Machine Learning Researcher | Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cibelle-pires-botelho-80117b37b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cibelle-pires-botelho- :contentReference[oaicite:0]{index=0} README corrigido](sandbox:/mnt/data/README_perfil_github_cibellepires_corrigido.md) ​:contentReference[oaicite:1]{index=1}​)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cibelebotelho123@gmail.com)
 
 
