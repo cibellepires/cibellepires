@@ -17,6 +17,9 @@
   <a href="https://github.com/cibellepires">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://huggingface.co/cibellepires">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face">
+  </a>
 </p>
 
 </div>
@@ -54,20 +57,18 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,github,gcp,vscode,javascript,html,css,mysql&perline=8)](https://skillicons.dev)
-
 </div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+</div>
+
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cibellepires&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibellepires&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-
-</div>
 
 ---
 
