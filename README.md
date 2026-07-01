@@ -4,9 +4,20 @@
 
 ### Artificial Intelligence Student | NLP & Machine Learning Researcher | Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cibelle-pires-botelho- :contentReference[oaicite:0]{index=0} README corrigido](sandbox:/mnt/data/README_perfil_github_cibellepires_corrigido.md) ​:contentReference[oaicite:1]{index=1}​)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cibelebotelho123@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/cibelle-pires-botelho-80117b37b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cibelebotelho123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/cibellebotelho/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/cibellepires">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
@@ -42,19 +53,21 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,pytorch,tensorflow,postgres,mongodb,docker,git,github,vscode,linux&perline=6)](https://skillicons.dev)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,github,gcp,vscode,javascript,html,css,mysql&perline=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cibellepires&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibellepires&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
